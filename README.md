@@ -1,8 +1,7 @@
 # Jeevith.Kobragade
 Config files for my GitHub profile.
-
-I encountered it during my course, and I wish to share it here because it is a good starter example for data pre-processing
-The dataset contains 16 columns
+ 
+This is My first Project :
 Target filed: Income
 The income is divide into two classes: <=50K and >50K
 
